@@ -1,0 +1,14 @@
+/Users/egordmitriev/Desktop/sibsutis/vis/hw1/bin/Debug/net8.0/hw1
+/Users/egordmitriev/Desktop/sibsutis/vis/hw1/bin/Debug/net8.0/hw1.deps.json
+/Users/egordmitriev/Desktop/sibsutis/vis/hw1/bin/Debug/net8.0/hw1.runtimeconfig.json
+/Users/egordmitriev/Desktop/sibsutis/vis/hw1/bin/Debug/net8.0/hw1.dll
+/Users/egordmitriev/Desktop/sibsutis/vis/hw1/bin/Debug/net8.0/hw1.pdb
+/Users/egordmitriev/Desktop/sibsutis/vis/hw1/obj/Debug/net8.0/hw1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egordmitriev/Desktop/sibsutis/vis/hw1/obj/Debug/net8.0/hw1.AssemblyInfoInputs.cache
+/Users/egordmitriev/Desktop/sibsutis/vis/hw1/obj/Debug/net8.0/hw1.AssemblyInfo.cs
+/Users/egordmitriev/Desktop/sibsutis/vis/hw1/obj/Debug/net8.0/hw1.csproj.CoreCompileInputs.cache
+/Users/egordmitriev/Desktop/sibsutis/vis/hw1/obj/Debug/net8.0/hw1.dll
+/Users/egordmitriev/Desktop/sibsutis/vis/hw1/obj/Debug/net8.0/refint/hw1.dll
+/Users/egordmitriev/Desktop/sibsutis/vis/hw1/obj/Debug/net8.0/hw1.pdb
+/Users/egordmitriev/Desktop/sibsutis/vis/hw1/obj/Debug/net8.0/hw1.genruntimeconfig.cache
+/Users/egordmitriev/Desktop/sibsutis/vis/hw1/obj/Debug/net8.0/ref/hw1.dll
